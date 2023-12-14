@@ -1,0 +1,4 @@
+{
+    "Type": "Lesion",
+    "SpatialReference": "bids:raw:sub-M2083/ses-198/anat/sub-M2083_ses-198_acq-spc3_run-4_T2w.nii.gz"
+}
